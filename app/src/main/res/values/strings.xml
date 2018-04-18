@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ป้ายจราจรน่ารู้</string>
+    <string name="my_name">ชื่อ นายกฤษฎา วุฒิเจริญวิทย์</string>
+    <string name="my_major">คณะ:วิทยาศาสตร์และเทคโนโลยี หลักสูตร:วิทยาการคอมพิวเตอร์</string>
+    <string name="my_university"> มหาวิทยาลัยสวนดุสิต</string>
+    <string name="my_mobile">เบอร์โทรติดต่อ:0956933454</string>
+    <string name="my_facebook">facebook:https://www.facebook.com/michael.weremanchester</string>
+
+</resources>
